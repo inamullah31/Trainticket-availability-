@@ -1,0 +1,11 @@
+a=10
+b="shirt"
+animal='dog'
+book_cloud= "aws"
+fruit = "apple"
+desktop='dell'
+float=0.88
+_bottle_ =water
+flag = "indian"
+graduate= "freshers"
+inam_1= 31
